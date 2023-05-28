@@ -1,0 +1,8 @@
+Terminal 1 -> 
+
+javac *.javac
+java Server
+
+Terminal 2 -> 
+
+java Client
